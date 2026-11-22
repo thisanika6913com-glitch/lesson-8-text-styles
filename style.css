@@ -1,0 +1,39 @@
+body{
+    background-color: darkblue;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+.hero-name{
+    font-size: 60px;
+    font-weight: bold;
+    color: yellow;
+    font-family: sans-serif;
+    text-shadow:3px 3px 5px red
+}
+.tagline{
+    font-style: italic;
+   text-transform: capitalize;
+   color: lightblue;
+   font-family: Arial, sans-serif;
+}
+
+.label{
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: coral;
+}
+
+.badge{
+    display: inline-block;
+    font-size: 28px;
+    font-weight: bold;
+    color: gold;
+    transform: rotate(15deg);
+}
+
+.made-by{
+    color: coral;
+    font-style: italic;
+}
+
